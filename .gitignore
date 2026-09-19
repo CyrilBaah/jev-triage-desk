@@ -44,8 +44,9 @@ next-env.d.ts
 /screenshots
 /scripts
 /videos/*
-# except the demo clip the README embeds
+# except the demo clips the README embeds
 !/videos/jev-triage-desk-demo.mp4
+!/videos/demo.gif
 
 # local agent instructions
 /CLAUDE.md

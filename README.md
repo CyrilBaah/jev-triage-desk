@@ -24,10 +24,12 @@ and drop straight into routing logic:
 
 ## Demo
 
-35 seconds, no sound: triage the queue, open a decision, read the drafted
-reply, then triage a ticket of your own.
+Triage the queue, open a decision, read the drafted reply, then triage a
+ticket of your own. 35 seconds, no sound.
 
-https://github.com/CyrilBaah/jev-triage-desk/raw/main/videos/jev-triage-desk-demo.mp4
+![Triage Desk demo](videos/demo.gif)
+
+[Full-quality MP4](videos/jev-triage-desk-demo.mp4)
 
 ## Keys
 
