@@ -22,6 +22,13 @@ and drop straight into routing logic:
 - 🟡 **Agent drafts:** medium urgency, an LLM (Groq) drafts a reply for review
 - ⚪ **Archived:** low urgency or spam, FAQ auto-reply or ignored
 
+## Demo
+
+35 seconds, no sound: triage the queue, open a decision, read the drafted
+reply, then triage a ticket of your own.
+
+https://github.com/CyrilBaah/jev-triage-desk/raw/main/videos/jev-triage-desk-demo.mp4
+
 ## Keys
 
 The app needs two keys, set in `.env`:
